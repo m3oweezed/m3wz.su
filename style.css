@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "FiraCode";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Fira Code"),
+       url("./res/fonts/FiraCode-VF.woff2") format("woff2"),
+       url("./res/fonts/FiraCode-VF.ttf") format("truetype"),                
+       url("./res/fonts/FiraCode-VF.woff") format("woff");
+}
+body {
+   font-family: FiraCode, sans-serif;
+   margin: 0;
+   padding: 0;
+}
+.navbar {
+   background-color: #333;
+   overflow: hidden;
+}
+.navbar a {
+   float: left;
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+.navbar a:hover {
+   background-color: #ddd;
+   color: black;
+}
+.content {
+   padding: 20px;
+}
