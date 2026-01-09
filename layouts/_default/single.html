@@ -1,0 +1,10 @@
+{{ define "main" }}
+<main class="content">
+  <h1>{{ .Title }}</h1>
+{{ .Content }}
+  {{ if eq .Section "posts" }}
+    <hr>
+    {{ .Date.Format "2 января 2006 / 15:04" }}
+  {{ end }}
+</main>
+{{ end }}

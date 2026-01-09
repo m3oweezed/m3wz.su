@@ -1,0 +1,21 @@
+baseURL = "/"
+languageCode = "ru-ru"
+title = "m3wz.su"
+
+[params]
+  description = "m3oweezed's personal site"
+
+[[menu.main]]
+  name = "Главная"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Девайсы"
+  url = "/devices/"
+  weight = 2
+
+[[menu.main]]
+  name = "Обо мне"
+  url = "/about/"
+  weight = 3

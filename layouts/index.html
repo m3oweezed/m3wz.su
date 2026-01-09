@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <main class="content">
+    <section class="posts">
+      <h1>Последние новости</h2>
+      <div class="posts-list">
+        {{ range (where .Site.RegularPages "Section" "posts") }}
+          <article class="post-item">
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <strong>{{ .Date.Format "2 января 2006 / 15:04" }}</strong>
+            <p>{{ .Description }}</p>
+          </article>
+        {{ end }}
+      </div>
+    </section>
+  </main>
+{{ end }}
