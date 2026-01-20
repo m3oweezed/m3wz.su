@@ -6,10 +6,12 @@ title: "Обо мне"
 Меня зовут **m3oweezed** (сокращённо **m3wz**), также я известен под никами **Lameni** и **cotarium**.
 В реальности - **Евгений.**
 
-Мне 17 лет, увлекаюсь компьютерами, фотосъёмкой и видеомонитрованием (простеньким).
+Мне 18 лет, увлекаюсь компьютерами, фотосъёмкой и видеомонитрованием (простеньким).
 
 #### Мои соц. сети:
 [Telegram](https://t.me/m3oweezed) \
 [Instagram](https://www.instagram.com/m3oweezed/)`*` \
-[Pixelfed](https://pixelfed.social/lameni)
+[Pixelfed](https://pixelfed.social/lameni) \
+[Mastodon](https://mastodon.ml/@Lameni) \
+[Last.FM](https://last.fm/user/m3oweezed)
 ###### * - Meta признана экстремисткой компанией на территории России.
